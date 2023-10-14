@@ -1,5 +1,5 @@
 # Database
-### Learning to build a simple DB from scratch in C
+### Build a simple DB from scratch in C
 ---
 ![arch2](https://github.com/abdiths/Database/assets/136372934/ce5251c8-c987-4c3b-8645-66791959b4c7)
 
