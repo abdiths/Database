@@ -6,11 +6,11 @@
 #### This project is a simple SQL-like database implemented in the C programming language. It provides a command-line interface for users to interact with a basic database management system. The provided code is a starting point that you can extend and enhance to build a more feature-rich database system.
 
 *To-Do List*
-[] Database Structure
-[] Database Operations
-[] Data Storage
-[] Query Processing
-[] ...
+- [x] Database Structure
+- [] Database Operations
+- [] Data Storage
+- [] Query Processing
+- [] ...
 
 *Saturday, 14 October 2023:*
 - created a skeleton for database, the front-end of the SQL compiler (parsing a string and outputting a bytecode, which then is passed to the VM that executes it)
