@@ -7,10 +7,10 @@
 
 *To-Do List*
 - [x] Database Structure
-- [] Database Operations
-- [] Data Storage
-- [] Query Processing
-- [] ...
+- [ ] Database Operations
+- [ ] Data Storage
+- [ ] Query Processing
+- [ ] ...
 
 *Saturday, 14 October 2023:*
 - created a skeleton for database, the front-end of the SQL compiler (parsing a string and outputting a bytecode, which then is passed to the VM that executes it)
