@@ -7,7 +7,7 @@
 
 *To-Do List*
 - [x] Database Structure
-- [ ] Database Operations
+- [x] Database Operations
 - [ ] Data Storage
 - [ ] Query Processing
 - [ ] ...
